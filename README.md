@@ -1,6 +1,7 @@
 ###  👋 Hey!
 I'm a software enginner woking 
 
+努力成为全栈工程师！投资自己，收获快乐！网络一线牵，相逢即是缘！看到我主页的小伙伴，帮忙star我一下哈！
 <!--
 **xianengqi/xianengqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
