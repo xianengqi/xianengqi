@@ -18,7 +18,10 @@ just ✉️ [Email](mailto:xianengqi@gmail.com) | 💬 [Issue](https://github.co
 ## 💻 Open Source Work Stats
 
 
-![Xia Nengqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianengqi)
+![Xia Nengqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianengqi&count_private=true&show_icons=true&locale=cn&show_owner=true&include_all_commits=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianengqi)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianengqi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
