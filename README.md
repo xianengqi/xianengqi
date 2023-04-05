@@ -21,12 +21,14 @@ just ✉️ [Email](mailto:xianengqi@gmail.com) | 💬 [Issue](https://github.co
 
 ![Xia Nengqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianengqi&count_private=true&show_icons=true&locale=cn&show_owner=true&include_all_commits=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xianengqi&locale=cn)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianengqi)
 
-![Xia Nengqi's](https://github-profile-trophy.vercel.app/?username=xianengqi&theme=onedark)
+<!-- ![Xia Nengqi's](https://github-profile-trophy.vercel.app/?username=xianengqi&theme=onedark) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xianengqi)
+
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianengqi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
