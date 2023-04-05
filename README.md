@@ -1,34 +1,23 @@
-<!-- ###  👋 Hey!
-I'm a software enginner
-![](https://s1.ax1x.com/2020/07/18/UcmlyF.png)
--->
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xianengqi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### 你好，世界 👋
-<!--
-- :orange_book: Focusing on  & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
--->
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=xianengqi&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/xianengqi)
 
 
-<!-- [![xianengqi' github stats](https://github-readme-stats.vercel.app/api?username=xianengqi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianengqi)](https://github.com/anuraghazra/github-readme-stats) -->
+Hi guys, I'm **Xia Nengqi**. I am a SwiftUI developer from Jiaxing, China. I'm not working, .  
+I have some works with **SwiftUI**and , contact me if you have same interesting or some questions!
+
+## 📫 Contact Me on Social Media
+
+just ✉️ [Email](mailto:xianengqi@gmail.com) | 💬 [Issue](https://github.com/xianengqi/xianengqi/issues/me) Me about everything!
+
+## 💡 Projects with My Work
+
+- [**库存百货管理**](): 已上架到AppStore
+
+## 💻 Open Source Work Stats
 
 
-<!-- ### 努力成为全栈工程师！投资自己，收获快乐！网络一线牵，相逢即是缘！看到我主页的小伙伴，帮忙star我一下哈！ -->
-<!--
-**xianengqi/xianengqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xianengqi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
