@@ -14,7 +14,7 @@ just ✉️ [Email](mailto:xianengqi@gmail.com) | 💬 [Issue](https://github.co
 
 ## 💡 Projects with My Work
 
-- [**库存百货管理**](): 已上架到AppStore
+- [**库存百货管理**](https://apps.apple.com/app/%E5%BA%93%E5%AD%98%E7%99%BE%E8%B4%A7%E7%AE%A1%E7%90%86-%E6%9E%81%E7%AE%80%E7%9A%84%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/id6447294582): 已上架到AppStore
 
 ## 💻 Open Source Work Stats
 
