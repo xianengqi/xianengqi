@@ -14,7 +14,7 @@ just ✉️ [Email](mailto:xianengqi@gmail.com) | 💬 [Issue](https://github.co
 
 ## 💡 Projects with My Work
 
-- **库存百货管理**<a href="https://apps.apple.com/cn/app/%E5%BA%93%E5%AD%98%E7%99%BE%E8%B4%A7%E7%AE%A1%E7%90%86-%E6%9E%81%E7%AE%80%E7%9A%84%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/id6447294582?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83&amp;releaseDate=1680739200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+- **库存百货管理**<a href="https://apps.apple.com/cn/app/%E5%BA%93%E5%AD%98%E7%99%BE%E8%B4%A7%E7%AE%A1%E7%90%86-%E6%9E%81%E7%AE%80%E7%9A%84%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/id6447294582?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-cn?size=250x83&amp;releaseDate=1680739200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
 
 ## 💻 Open Source Work Stats
 
