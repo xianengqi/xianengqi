@@ -1,0 +1,57 @@
+{
+  "profile": {
+    "name_en": "Xia Nengqi",
+    "tagline_zh": "把想法做成能上架的产品。",
+    "tagline_en": "Turning ideas into products that ship.",
+    "intro_zh": "独立开发者，做 iOS、鸿蒙和 Web 全栈，产品从设计一路做到上架。",
+    "intro_en": "Indie developer across iOS, HarmonyOS and the web, taking products from design all the way to the store.",
+    "email": "xianengqi@gmail.com",
+    "wechat": "xianengqi"
+  },
+  "projects": [
+    {
+      "id": "zhuoxunmiao",
+      "index": "01",
+      "title": "桌巡喵",
+      "subtitle": "ZhuoXunMiao · HarmonyOS PC",
+      "card_tagline": "让机器人替你把桌面扫干净。",
+      "one_liner_zh": "鸿蒙电脑上的桌面清扫机器人。",
+      "detail_zh": "它在真实桌面上巡扫，可以按类型整理文件、移入回收站或永久删除，每一步都先让你确认。",
+      "one_liner_en": "A desktop-sweeping robot for HarmonyOS PCs.",
+      "detail_en": "It patrols your real desktop, sorts, recycles or deletes files, and asks before every step.",
+      "status": "live",
+      "link": "https://appgallery.huawei.com/app/detail?id=com.zhuoxunmiao.desktop",
+      "cta_zh": "鸿蒙应用市场下载",
+      "cta_en": "Get it on AppGallery",
+      "accent": "#F2711C"
+    },
+    {
+      "id": "rewords",
+      "index": "02",
+      "title": "ReWords AI",
+      "subtitle": "Web · iOS · HarmonyOS",
+      "card_tagline": "图片里的字，想改就改。",
+      "one_liner_zh": "用 AI 改图片里的文字。",
+      "detail_zh": "识别原图上的字，换成你要的内容，文字区域以外的像素不动。Web、iOS、鸿蒙三端。",
+      "one_liner_en": "Edit the text inside any image with AI.",
+      "detail_en": "It reads the text, swaps in what you want, and leaves every pixel outside the text region untouched.",
+      "status": "in-development",
+      "link": null,
+      "accent": "#6D5DF6"
+    },
+    {
+      "id": "project-brain-map",
+      "index": "03",
+      "title": "project-brain-map",
+      "subtitle": "Agent skill",
+      "card_tagline": "一张图看懂整个项目。",
+      "one_liner_zh": "读懂整个项目的 Agent skill。",
+      "detail_zh": "读源码和文档，生成一份可交互的项目大脑地图 HTML，包含能力树、业务流程、DDD 架构和 Mermaid 图，每条结论都标明证据。",
+      "one_liner_en": "An agent skill that maps an entire project.",
+      "detail_en": "It reads your code and docs and builds an interactive, evidence-backed brain map with capability trees, flows, DDD and Mermaid diagrams.",
+      "status": "private",
+      "link": null,
+      "accent": "#14B8A6"
+    }
+  ]
+}

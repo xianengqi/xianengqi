@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img">
+<style>
+text{font-family:-apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, monospace}
+
+.bg{fill:#f6f8fa}
+.border{stroke:#d0d7de}
+.fg{fill:#1f2328}
+.muted{fill:#656d76}
+.rule{fill:#d0d7de}
+@media (prefers-color-scheme: dark){
+.bg{fill:#161b22}
+.border{stroke:#30363d}
+.fg{fill:#e6edf3}
+.muted{fill:#8b949e}
+.rule{fill:#30363d}
+}
+
+.in{animation:rise 1.6s ease-out both}
+.d1{animation-delay:.2s}
+.d2{animation-delay:.7s}
+.d3{animation-delay:1.1s}
+.bar{animation:grow 2.2s ease-out .4s both;transform-origin:48px 118px}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+
+@media (prefers-reduced-motion: reduce){
+*{animation:none !important}
+.sweep{display:none}
+}
+</style>
+<rect class="bg border" x="0.5" y="0.5" width="899" height="239" rx="12"/>
+<text class="fg in d1" x="48" y="96" font-size="64" font-weight="700">Xia Nengqi</text>
+<g class="bar"><rect x="48" y="116" width="80" height="4" fill="#F2711C"/><rect x="128" y="116" width="80" height="4" fill="#6D5DF6"/><rect x="208" y="116" width="80" height="4" fill="#14B8A6"/></g>
+<text class="fg in d2" x="48" y="166" font-size="26" font-weight="600">把想法做成能上架的产品。</text>
+<text class="muted in d3" x="48" y="200" font-size="18">Turning ideas into products that ship.</text>
+</svg>
