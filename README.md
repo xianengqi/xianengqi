@@ -7,8 +7,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## [桌巡喵](https://appgallery.huawei.com/app/detail?id=com.zhuoxunmiao.desktop)
-
 <a href="https://appgallery.huawei.com/app/detail?id=com.zhuoxunmiao.desktop"><img src="assets/card-zhuoxunmiao.svg" width="100%" alt="01 桌巡喵"></a>
 
 <b>鸿蒙电脑上的桌面清扫机器人。</b>它在真实桌面上巡扫，可以按类型整理文件、移入回收站或永久删除，每一步都先让你确认。<br>
@@ -18,8 +16,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ReWords AI
-
 <img src="assets/card-rewords.svg" width="100%" alt="02 ReWords AI">
 
 <b>用 AI 改图片里的文字。</b>识别原图上的字，换成你要的内容，文字区域以外的像素不动。Web、iOS、鸿蒙三端。<br>
@@ -28,8 +24,6 @@
 ![开发中 · In development](https://img.shields.io/static/v1?label=&message=%E5%BC%80%E5%8F%91%E4%B8%AD%20%C2%B7%20In%20development&color=6e7781&style=for-the-badge)
 
 <img src="assets/divider.svg" width="100%" alt="">
-
-## project-brain-map
 
 <img src="assets/card-project-brain-map.svg" width="100%" alt="03 project-brain-map">
 

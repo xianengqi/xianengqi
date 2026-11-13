@@ -103,7 +103,9 @@ def build_card(project):
     index = esc(project["index"])
     title = fit(project["title"], 30, 680, where + " title")
     subtitle = fit(project["subtitle"], 15, 680, where + " subtitle")
-    liner = fit(project["one_liner_zh"], 20, 680, where + " one_liner_zh")
+    if not project.get("card_tagline"):
+        raise SystemExit(f"{where}: card_tagline is required in projects.json")
+    liner = fit(project["card_tagline"], 20, 680, where + " card_tagline")
     accent = project["accent"]
     css = f"""
 .sweep{{animation:sweep 8s ease-in-out infinite}}
@@ -187,14 +189,10 @@ def build_readme(data):
     ]
     for p in projects:
         card = f'<img src="assets/card-{p["id"]}.svg" width="100%" alt="{esc(p["index"] + " " + p["title"])}">'
-        heading = p["title"]
         if STATUS_BADGES[p["status"]]["linked"]:
             card = f'<a href="{esc(p["link"])}">{card}</a>'
-            heading = f'[{heading}]({p["link"]})'
         out += [
             '<img src="assets/divider.svg" width="100%" alt="">',
-            "",
-            f'## {heading}',
             "",
             card,
             "",

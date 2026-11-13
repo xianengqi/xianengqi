@@ -34,5 +34,5 @@ text{font-family:-apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sa
 <rect class="rule" x="160" y="32" width="1" height="96"/>
 <text class="fg" x="192" y="68" font-size="30" font-weight="700">ReWords AI</text>
 <text class="muted mono" x="192" y="94" font-size="15">Web · iOS · HarmonyOS</text>
-<text class="fg" x="192" y="132" font-size="20">用 AI 改图片里的文字。</text>
+<text class="fg" x="192" y="132" font-size="20">图片里的字，想改就改。</text>
 </svg>
