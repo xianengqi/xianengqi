@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img">
+<style>
+text{font-family:-apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, monospace}
+
+.bg{fill:#f6f8fa}
+.border{stroke:#d0d7de}
+.fg{fill:#1f2328}
+.muted{fill:#656d76}
+.rule{fill:#d0d7de}
+@media (prefers-color-scheme: dark){
+.bg{fill:#161b22}
+.border{stroke:#30363d}
+.fg{fill:#e6edf3}
+.muted{fill:#8b949e}
+.rule{fill:#30363d}
+}
+
+.sweep{animation:sweep 8s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-300px)}65%,100%{transform:translateX(1000px)}}
+
+@media (prefers-reduced-motion: reduce){
+*{animation:none !important}
+.sweep{display:none}
+}
+</style>
+<defs>
+<linearGradient id="glow-project-brain-map" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14B8A6" stop-opacity="0"/><stop offset="0.5" stop-color="#14B8A6" stop-opacity="0.22"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></linearGradient>
+<clipPath id="clip-project-brain-map"><rect x="0" y="0" width="900" height="160" rx="12"/></clipPath>
+</defs>
+<rect class="bg border" x="0.5" y="0.5" width="899" height="159" rx="12"/>
+<g clip-path="url(#clip-project-brain-map)"><g class="sweep"><rect x="0" y="0" width="240" height="160" fill="url(#glow-project-brain-map)"/><rect x="60" y="157" width="120" height="3" fill="#14B8A6"/></g></g>
+<text class="mono" x="40" y="104" font-size="72" font-weight="700" fill="#14B8A6">03</text>
+<rect class="rule" x="160" y="32" width="1" height="96"/>
+<text class="fg" x="192" y="68" font-size="30" font-weight="700">project-brain-map</text>
+<text class="muted mono" x="192" y="94" font-size="15">Agent skill</text>
+<text class="fg" x="192" y="132" font-size="20">读懂整个项目的 Agent skill。</text>
+</svg>

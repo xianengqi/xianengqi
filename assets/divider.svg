@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="48" viewBox="0 0 900 48" role="img">
+<style>
+text{font-family:-apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, Menlo, monospace}
+
+.bg{fill:#f6f8fa}
+.border{stroke:#d0d7de}
+.fg{fill:#1f2328}
+.muted{fill:#656d76}
+.rule{fill:#d0d7de}
+@media (prefers-color-scheme: dark){
+.bg{fill:#161b22}
+.border{stroke:#30363d}
+.fg{fill:#e6edf3}
+.muted{fill:#8b949e}
+.rule{fill:#30363d}
+}
+
+.dot{animation:pulse 4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+
+@media (prefers-reduced-motion: reduce){
+*{animation:none !important}
+.sweep{display:none}
+}
+</style>
+<rect class="rule" x="0" y="23" width="900" height="1"/>
+<circle class="dot muted" cx="450" cy="23.5" r="3.5"/>
+</svg>
