@@ -1,7 +1,7 @@
 <img src="assets/header.svg" width="100%" alt="Xia Nengqi">
 
-**独立开发者，做 iOS、鸿蒙和 Web 全栈。来自浙江嘉兴。**<br>
-**Indie developer building across iOS, HarmonyOS and the web. Based in Jiaxing, China.**
+**独立开发者，做 iOS、鸿蒙和 Web 全栈，产品从设计一路做到上架。**<br>
+**Indie developer across iOS, HarmonyOS and the web, taking products from design all the way to the store.**
 
 ![Followers](https://img.shields.io/github/followers/xianengqi?style=for-the-badge&label=Followers) ![Projects](https://img.shields.io/static/v1?label=Projects&message=3&color=6e7781&style=for-the-badge)
 
